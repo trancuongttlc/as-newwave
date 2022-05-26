@@ -1,0 +1,2 @@
+export const CREATE_ORDER = "CREATE_ORDER";
+export const RETRIEVE_ORDER = "RETRIEVE_ORDER";
